@@ -1,0 +1,21 @@
+#Header {
+    width: 354px
+}
+
+.span-1 {
+    color: white;
+     font-size: 40px; 
+     font-family: Karla;
+      font-weight: 800; 
+      line-height: 40px; 
+      word-wrap: break-word;
+}
+
+.span-2 {
+    color: #4ADF86;
+     font-size: 40px; 
+     font-family: Karla; 
+     font-weight: 800;
+      line-height: 40px; 
+      word-wrap: break-word;
+}
